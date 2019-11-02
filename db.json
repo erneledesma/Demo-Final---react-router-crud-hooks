@@ -1,0 +1,28 @@
+{
+  "restaurant": [
+    {
+      "nombrePlato": "Ensalada Primavera",
+      "precioPlato": "300",
+      "categoria": "ensalada",
+      "id": 4
+    },
+    {
+      "nombrePlato": "Ensalada Primavera",
+      "precioPlato": "120",
+      "categoria": "ensalada",
+      "id": 5
+    },
+    {
+      "nombrePlato": "Bombon Zuizo",
+      "precioPlato": "250",
+      "categoria": "postre",
+      "id": 6
+    },
+    {
+      "nombrePlato": "Pollo al espiedo",
+      "precioPlato": "400",
+      "categoria": "cortes",
+      "id": 7
+    }
+  ]
+}
